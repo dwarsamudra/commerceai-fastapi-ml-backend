@@ -1,7 +1,7 @@
 from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
 
-from app.database import get_db
+from ..database import get_db
 from app.models.product import Product
 from app.schemas.product import ProductCreate, ProductResponse
 from app.ml.model import predict_price
