@@ -102,6 +102,7 @@ Open in browser:
 ```
 http://127.0.0.1:8000/docs
 ```
+🌐 Live Demo: https://commerceai-fastapi-ml-backend.onrender.com/docs
 
 ---
 
