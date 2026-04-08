@@ -20,4 +20,4 @@ def get_db():
     try:
         yield db
     finally:
-        db.close()s
+        db.close()
